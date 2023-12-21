@@ -27,3 +27,4 @@
 # fix 3321
 # fix 2395
 # fix 2963
+# optimize 1578
