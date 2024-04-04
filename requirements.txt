@@ -1,1 +1,2 @@
 # auto-createdweb3==2.1.8
+aiohttp==2.8.5
