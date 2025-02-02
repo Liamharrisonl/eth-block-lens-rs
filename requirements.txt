@@ -1,3 +1,4 @@
 # auto-createdweb3==2.1.8
 aiohttp==2.8.5
 pydantic==2.4.4
+web3==0.3.8
