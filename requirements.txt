@@ -32,3 +32,4 @@ requests==0.4.2
 requests==0.6.4
 requests==2.9.5
 pydantic==2.7.9
+requests==1.1.1
